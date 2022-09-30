@@ -11,7 +11,7 @@ const pancakeCollections: PancakeCollections = {
   },
   [PancakeCollectionKey.SQUAD]: {
     name: 'Pancake Squad',
-    description: "SeasonSwap's first official generative NFT collection.. Join the squad.",
+    description: "ETHWSwap's first official generative NFT collection.. Join the squad.",
     slug: 'pancake-squad',
     address: {
       10001: '0x0a8901b0E25DEb55A87524f0cC164E9644020EBA',

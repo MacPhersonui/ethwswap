@@ -72,7 +72,7 @@ const Footer = () => {
             <a href="https://discord.gg/DMG9a9VuPa" target="_blank"><img className='icon' src={'/images/home/season/contact1_hover.svg'} width={40} height={40} /></a>
             <a href="https://twitter.com/ethw_swap" target="_blank"><img className='icon' src={'/images/home/season/contact5_hover.svg'} width={40} height={40} /></a>
             {/* <a href="https://medium.com/@seasonswap" target="_blank"><img className='icon' src={'/images/home/season/contact6_hover.svg'} width={40} height={40} /></a>
-            <a href="https://github.com/SeasonSwap" target="_blank"><img className='icon' src={'/images/home/season/contact4_hover.svg'} width={40} height={40} /></a> */}
+            <a href="https://github.com/ETHWSwap" target="_blank"><img className='icon' src={'/images/home/season/contact4_hover.svg'} width={40} height={40} /></a> */}
           </Flex>
         </Flex>
         <Flex>

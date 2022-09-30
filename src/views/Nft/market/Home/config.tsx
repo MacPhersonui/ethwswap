@@ -9,7 +9,7 @@ const config = (t: ContextApi['t']) => {
         t(
           'Trades are settled in WBNB, which is a wrapped version of BNB used on BNB Smart Chain. That means that when you sell an item, WBNB is sent to your wallet instead of BNB.',
         ),
-        t('You can instantly swap your WBNB for BNB with no trading fees on SeasonSwap.'),
+        t('You can instantly swap your WBNB for BNB with no trading fees on ETHWSwap.'),
       ],
     },
     {

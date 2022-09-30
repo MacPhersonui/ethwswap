@@ -32,75 +32,75 @@ export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {
   switch (basePath) {
     case '/':
       return {
-        title: `${t('Home')} | ${t('SeasonSwap')}`,
+        title: `${t('Home')} | ${t('ETHWSwap')}`,
       }
     case '/swap':
       return {
-        title: `${t('Exchange')} | ${t('SeasonSwap')}`,
+        title: `${t('Exchange')} | ${t('ETHWSwap')}`,
       }
     case '/add':
       return {
-        title: `${t('Add Liquidity')} | ${t('SeasonSwap')}`,
+        title: `${t('Add Liquidity')} | ${t('ETHWSwap')}`,
       }
     case '/remove':
       return {
-        title: `${t('Remove Liquidity')} | ${t('SeasonSwap')}`,
+        title: `${t('Remove Liquidity')} | ${t('ETHWSwap')}`,
       }
     case '/liquidity':
       return {
-        title: `${t('Liquidity')} | ${t('SeasonSwap')}`,
+        title: `${t('Liquidity')} | ${t('ETHWSwap')}`,
       }
     case '/find':
       return {
-        title: `${t('Import Pool')} | ${t('SeasonSwap')}`,
+        title: `${t('Import Pool')} | ${t('ETHWSwap')}`,
       }
     case '/competition':
       return {
-        title: `${t('Trading Battle')} | ${t('SeasonSwap')}`,
+        title: `${t('Trading Battle')} | ${t('ETHWSwap')}`,
       }
     case '/prediction':
       return {
-        title: `${t('Prediction')} | ${t('SeasonSwap')}`,
+        title: `${t('Prediction')} | ${t('ETHWSwap')}`,
       }
     case '/prediction/leaderboard':
       return {
-        title: `${t('Leaderboard')} | ${t('SeasonSwap')}`,
+        title: `${t('Leaderboard')} | ${t('ETHWSwap')}`,
       }
     case '/farms':
       return {
-        title: `${t('Farms')} | ${t('SeasonSwap')}`,
+        title: `${t('Farms')} | ${t('ETHWSwap')}`,
       }
     case '/farms/auction':
       return {
-        title: `${t('Farm Auctions')} | ${t('SeasonSwap')}`,
+        title: `${t('Farm Auctions')} | ${t('ETHWSwap')}`,
       }
     case '/pools':
       return {
-        title: `${t('Pools')} | ${t('SeasonSwap')}`,
+        title: `${t('Pools')} | ${t('ETHWSwap')}`,
       }
     case '/lottery':
       return {
-        title: `${t('Lottery')} | ${t('SeasonSwap')}`,
+        title: `${t('Lottery')} | ${t('ETHWSwap')}`,
       }
     case '/ifo':
       return {
-        title: `${t('Initial Farm Offering')} | ${t('SeasonSwap')}`,
+        title: `${t('Initial Farm Offering')} | ${t('ETHWSwap')}`,
       }
     case '/teams':
       return {
-        title: `${t('Leaderboard')} | ${t('SeasonSwap')}`,
+        title: `${t('Leaderboard')} | ${t('ETHWSwap')}`,
       }
     case '/voting':
       return {
-        title: `${t('Voting')} | ${t('SeasonSwap')}`,
+        title: `${t('Voting')} | ${t('ETHWSwap')}`,
       }
     case '/voting/proposal':
       return {
-        title: `${t('Proposals')} | ${t('SeasonSwap')}`,
+        title: `${t('Proposals')} | ${t('ETHWSwap')}`,
       }
     case '/voting/proposal/create':
       return {
-        title: `${t('Make a Proposal')} | ${t('SeasonSwap')}`,
+        title: `${t('Make a Proposal')} | ${t('ETHWSwap')}`,
       }
     case '/info':
       return {
@@ -119,23 +119,23 @@ export const getCustomMeta = (path: string, t: ContextApi['t']): PageMeta => {
       }
     case '/nfts':
       return {
-        title: `${t('Overview')} | ${t('SeasonSwap')}`,
+        title: `${t('Overview')} | ${t('ETHWSwap')}`,
       }
     case '/nfts/collections':
       return {
-        title: `${t('Collections')} | ${t('SeasonSwap')}`,
+        title: `${t('Collections')} | ${t('ETHWSwap')}`,
       }
     case '/nfts/activity':
       return {
-        title: `${t('Activity')} | ${t('SeasonSwap')}`,
+        title: `${t('Activity')} | ${t('ETHWSwap')}`,
       }
     case '/nfts/profile':
       return {
-        title: `${t('Profile')} | ${t('SeasonSwap')}`,
+        title: `${t('Profile')} | ${t('ETHWSwap')}`,
       }
     case '/pancake-squad':
       return {
-        title: `${t('Pancake Squad')} | ${t('SeasonSwap')}`,
+        title: `${t('Pancake Squad')} | ${t('ETHWSwap')}`,
       }
     default:
       return null

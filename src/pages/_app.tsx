@@ -56,7 +56,7 @@ function MyApp(props: AppProps) {
           name="description"
           content="Trade, earn and wealth-grow in all seasons of the year."
         />
-        <title>SeasonSwap</title>
+        <title>ETHWSwap</title>
       </Head>
       <Providers store={store}>
         <Blocklist>
