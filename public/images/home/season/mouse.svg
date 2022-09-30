@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="18px" viewBox="0 0 13 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 10</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="首页" transform="translate(-505.000000, -511.000000)" stroke="#292A36" stroke-width="2">
+            <g id="编组" transform="translate(506.000000, 512.000000)">
+                <path d="M5.2408,15.8144 L5.2398,15.8144 C2.3458,15.8144 -0.0002,13.4684 -0.0002,10.5744 L-0.0002,5.2404 C-0.0002,2.3464 2.3458,0.0004 5.2398,0.0004 L5.2408,0.0004 C8.1348,0.0004 10.4808,2.3464 10.4808,5.2404 L10.4808,10.5744 C10.4808,13.4684 8.1348,15.8144 5.2408,15.8144 Z" id="Stroke-1"></path>
+                <line x1="5.2408" y1="3.6777" x2="5.2408" y2="6.2117" id="Stroke-3"></line>
+            </g>
+        </g>
+    </g>
+</svg>

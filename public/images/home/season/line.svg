@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="423px" height="319px" viewBox="0 0 423 319" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径 6</title>
+    <defs>
+        <linearGradient x1="96.6325732%" y1="51.493%" x2="0%" y2="80.3515786%" id="linearGradient-1">
+            <stop stop-color="#2FDDA2" offset="0%"></stop>
+            <stop stop-color="#6062A1" offset="99.9371722%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="首页" transform="translate(0.000000, -91.000000)" stroke="url(#linearGradient-1)" stroke-width="20">
+            <path d="M-21,443.000005 C3.59874792,360.532413 22.6113401,318.193439 36.0377766,315.983084 C56.1774313,312.667551 58.8333938,377.311842 78.5688104,374.407427 C98.3042271,371.503012 121.592269,256.650731 147.792503,254.162724 C168.283707,252.216854 180.352186,297.235061 198.74132,298.241089 C217.130454,299.247117 229.500514,201.939278 255.035094,198.391706 C280.569675,194.844133 286.080999,333.922022 320.124922,328.701285 C360.509598,322.508175 381.003352,101.539539 412.219252,101.209719" id="路径-6"></path>
+        </g>
+    </g>
+</svg>

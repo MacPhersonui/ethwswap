@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="515px" height="371px" viewBox="0 0 515 371" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 8</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0F191F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#17181D" offset="81.9459715%"></stop>
+            <stop stop-color="#17181D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-448.000000, -89.000000)">
+            <g id="编组-8" transform="translate(451.000000, 92.000000)">
+                <rect id="矩形" fill="#17181D" x="19" y="21" width="491" height="347" rx="25"></rect>
+                <rect id="矩形" fill="#22232C" x="30" y="31" width="469" height="329" rx="17"></rect>
+                <g id="编组-15" transform="translate(51.000000, 9.209719)" stroke="#2F303D" stroke-linecap="square">
+                    <g id="编组-13" transform="translate(0.000000, 49.790281)">
+                        <g id="编组-14" transform="translate(0.000000, -0.000000)">
+                            <line x1="0.486425339" y1="286.489324" x2="429.513575" y2="286.489324" id="直线-9"></line>
+                            <line x1="0.486425339" y1="257.891459" x2="429.513575" y2="257.891459" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="229.293594" x2="429.513575" y2="229.293594" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="200.69573" x2="429.513575" y2="200.69573" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="172.097865" x2="429.513575" y2="172.097865" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="143.5" x2="429.513575" y2="143.5" id="直线-9"></line>
+                            <line x1="0.486425339" y1="114.902135" x2="429.513575" y2="114.902135" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="86.3042705" x2="429.513575" y2="86.3042705" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="57.7064057" x2="429.513575" y2="57.7064057" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="29.1085409" x2="429.513575" y2="29.1085409" id="直线-9" opacity="0.44622093" stroke-dasharray="4"></line>
+                            <line x1="0.486425339" y1="0.510676157" x2="429.513575" y2="0.510676157" id="直线-9"></line>
+                        </g>
+                    </g>
+                </g>
+                <rect id="矩形" fill="url(#linearGradient-1)" x="19" y="263" width="493" height="105"></rect>
+                <g id="编组" transform="translate(19.000000, 19.500000) scale(-1, 1) translate(-19.000000, -19.500000) " stroke="#5F61A1" stroke-linecap="round" stroke-width="5">
+                    <line x1="3" y1="0" x2="3" y2="11" id="Stroke-1"></line>
+                    <line x1="28" y1="10" x2="21" y2="17" id="Stroke-3"></line>
+                    <line x1="38" y1="36" x2="27" y2="36" id="Stroke-7"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
