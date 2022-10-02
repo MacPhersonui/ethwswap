@@ -12,7 +12,7 @@ const SafemoonWarning = () => {
         <Link
           style={{ display: 'inline' }}
           external
-          href="https://clvscan.com/address/0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5"
+          href="https://mainnet.ethwscan.com/address/0x42981d0bfbAf196529376EE702F2a9Eb9092fcB5"
         >
           {t('a new contract address.')}
         </Link>{' '}

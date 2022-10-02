@@ -35,7 +35,7 @@ const WalletWrongNetwork: React.FC<WalletWrongNetworkProps> = ({ onDismiss }) =>
           {t('Switch Network')}
         </Button>
       )}
-      <StyledLink href="https://docs.ethwswap.com/getting-started/connect-to-clv-chain/clv-wallet" external>
+      <StyledLink href="https://docs.ethwswap.finance/getting-started/connect-to-clv-chain/clv-wallet" external>
         <Button width="100%" variant="secondary">
           {t('Learn How')}
           <HelpIcon color="primary" ml="6px" />

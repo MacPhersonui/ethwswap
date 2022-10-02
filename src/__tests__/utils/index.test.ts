@@ -6,13 +6,13 @@ import { getBscScanLink, calculateSlippageAmount, isAddress, calculateGasMargin,
 describe('utils', () => {
   describe('#getBscScanLink', () => {
     it('correct for tx', () => {
-      expect(getBscScanLink('abc', 'transaction', ChainId.MAINNET)).toEqual('https://clvscan.com/tx/abc')
+      expect(getBscScanLink('abc', 'transaction', ChainId.MAINNET)).toEqual('https://mainnet.ethwscan.com/tx/abc')
     })
     it('correct for token', () => {
-      expect(getBscScanLink('abc', 'token', ChainId.MAINNET)).toEqual('https://clvscan.com/token/abc')
+      expect(getBscScanLink('abc', 'token', ChainId.MAINNET)).toEqual('https://mainnet.ethwscan.com/token/abc')
     })
     it('correct for address', () => {
-      expect(getBscScanLink('abc', 'address', ChainId.MAINNET)).toEqual('https://clvscan.com/address/abc')
+      expect(getBscScanLink('abc', 'address', ChainId.MAINNET)).toEqual('https://mainnet.ethwscan.com/address/abc')
     })
     it('enum', () => {
       expect(getBscScanLink('abc', 'address', ChainId.TESTNET)).toEqual('https://clvscan.comaddress/abc')

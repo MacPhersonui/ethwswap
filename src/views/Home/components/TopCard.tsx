@@ -85,7 +85,7 @@ const TopCard = () => {
           </Flex>
           <Flex mt="60px">
             <Link href="/swap" passHref><Button mr="20px">Go to App</Button></Link>
-            <Button onClick={() => window.open("https://docs.ethwswap.com/")} style={{ backgroundColor: '#3B3C62' }}>Learn More</Button>
+            <Button onClick={() => window.open("https://docs.ethwswap.finance/")} style={{ backgroundColor: '#3B3C62' }}>Learn More</Button>
           </Flex>
         </TextWrapper>
         <BunnyWrapper>

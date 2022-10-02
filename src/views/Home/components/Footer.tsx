@@ -91,10 +91,10 @@ const Footer = () => {
             <Heading scale="lg" color="#fff" mb="20px" mt="20px">
               {t('Help')}
             </Heading>
-            <Text onClick={() => { window.open("https://docs.ethwswap.com/")}} className="operate" fontSize="16px" color="#414456" mb="10px">
+            <Text onClick={() => { window.open("https://docs.ethwswap.finance/")}} className="operate" fontSize="16px" color="#414456" mb="10px">
               {t('FAQ')}
             </Text>
-            <Text onClick={() => { window.open("https://docs.ethwswap.com/")} } className="operate" fontSize="16px" color="#414456" mb="10px">
+            <Text onClick={() => { window.open("https://docs.ethwswap.finance/")} } className="operate" fontSize="16px" color="#414456" mb="10px">
               {t('Guides')}
             </Text>
           </Flex>

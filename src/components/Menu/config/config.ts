@@ -37,10 +37,11 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
         label: t('Liquidity'),
         href: '/liquidity',
       },
-      // {
-      //   label: t('Gas Station'),
-      //   href: '/freegas',
-      // },
+      {
+        label: t('Bridge'),
+        href: `https://app.multichain.org/#/router?bridgetoken=0x8A496486f4c7CB840555Bc2Be327CBA1447027C3`,
+        type: DropdownMenuItemType.EXTERNAL_LINK,
+      },
       // {
       //   label: t('Misson'),
       //   href: '/misson',

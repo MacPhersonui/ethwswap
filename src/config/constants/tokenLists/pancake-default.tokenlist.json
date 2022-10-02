@@ -16,63 +16,39 @@
       "address": "0x310A7B498A248a8724779120F958102a5998E79d",
       "chainId": 10001,
       "decimals": 18,
-      "logoURI": "https://www.seasonswap.com/images/tokens/0x310A7B498A248a8724779120F958102a5998E79d.png"
+      "logoURI": "https://www.ethwswap.finance/images/tokens/0x310A7B498A248a8724779120F958102a5998E79d.svg"
     },
     {
-      "name": "Wrapped ETH",
-      "symbol": "WETH",
-      "address": "0xA1c3767c93E7B51EcB445fDbae1494DfC654e524",
+      "name": "ETH",
+      "symbol": "ETH",
+      "address": "0xaf3ccfD9B59b36628cC2F659a09d6440795B2520",
       "chainId": 10001,
       "decimals": 18,
-      "logoURI": "https://www.seasonswap.com/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+      "logoURI": "https://www.ethwswap.finance/images/tokens/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
     {
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "address": "0x30bEBbC0b6b357945AC30660E025C1532B9C7804",
+      "address": "0x5df101F56ea643e06066392d266e9f4366b9186d",
       "chainId": 10001,
       "decimals": 18,
-      "logoURI": "https://www.seasonswap.com/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+      "logoURI": "https://www.ethwswap.finance/images/tokens/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
     },
     {
       "name": "USD Coin",
       "symbol": "USDC",
-      "address": "0x4A52F069Cb00905d996A0d7B811D78e60b4cB09E",
+      "address": "0x11bbB41B3E8baf7f75773DB7428d5AcEe25FEC75",
       "chainId": 10001,
       "decimals": 6,
-      "logoURI": "https://www.seasonswap.com/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+      "logoURI": "https://www.ethwswap.finance/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     },
     {
       "name": "Tether USD",
       "symbol": "USDT",
-      "address": "0xf91193a62879279d6b8f209f89b6418e3c0e5cbf",
+      "address": "0x8A496486f4c7CB840555Bc2Be327CBA1447027C3",
       "chainId": 10001,
       "decimals": 6,
-      "logoURI": "https://www.seasonswap.com/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
-    },
-    {
-      "name": "Binance USD",
-      "symbol": "BUSD",
-      "address": "0x3F5F32c36811Ec5fB3398e3c68454e223269622C",
-      "chainId": 10001,
-      "decimals": 18,
-      "logoURI": "https://www.seasonswap.com/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
-    },
-    {
-      "name": "BNB",
-      "symbol": "BNB",
-      "address": "0x60f46cB1C0fa3fcC5943667110De5F1e5fCb8408",
-      "chainId": 10001,
-      "decimals": 18,
-      "logoURI": "https://www.seasonswap.com/images/tokens/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
-    },
-        {
-          "name": "DAI",
-          "symbol": "DAI",
-          "address": "0xc8330583F433073592b978D70AC1Dce1fdc03123",
-          "chainId": 10001,
-          "decimals": 18,
-          "logoURI": "https://www.seasonswap.com/images/tokens/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
-        }
+      "logoURI": "https://www.ethwswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
+    }
   ]
 }
