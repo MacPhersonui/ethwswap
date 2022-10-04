@@ -13,10 +13,10 @@
     {
       "name": "WETHW Token",
       "symbol": "WETHW",
-      "address": "0x310A7B498A248a8724779120F958102a5998E79d",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "chainId": 10001,
       "decimals": 18,
-      "logoURI": "https://www.ethwswap.finance/images/tokens/0x310A7B498A248a8724779120F958102a5998E79d.svg"
+      "logoURI": "https://www.ethwswap.finance/images/tokens/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.svg"
     },
     {
       "name": "ETH",

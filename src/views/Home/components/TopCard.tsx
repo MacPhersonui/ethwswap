@@ -25,7 +25,7 @@ const hueRotate = keyframes`
 `
 
 const BunnyWrapper = styled.div`
-  width: 75%;
+  width: 67%;
   position: relative;
   .line {
     position: absolute;
@@ -66,21 +66,21 @@ const TopCard = () => {
         <TextWrapper flexDirection="column"  style={{marginTop:'50px'}}>
           <Flex>
             <Heading scale="xl" color="#fff" mr="15px">
-              {t('Your')}
+              {t('A')}
             </Heading>
-            <Heading scale="xl" color="#797dff">
-              {t('All-Seasons')}
+            <Heading fontSize="37px" scale="xl" color="#797dff">
+              {t('Automated Liquidity')}
             </Heading>
           </Flex>
           <Heading scale="xl" color="#fff">
-            {t('DeFi protocol')}.
+            {t('Provision protocol')}.
           </Heading>
           <Flex flexWrap="wrap">
             <Text fontSize="16px" color="#797dff" mt="20px">
-              {t('Trade, earn and wealth-grow')}
+              {t('The Orthodox POW Advocators ')}
             </Text>
             <Text fontSize="16px" color="#414456" ml="5px" mt="20px">
-              {t('in all seasons of the year.')}
+              {t('Serving Ethereum Pow Blockchain.')}
             </Text>
           </Flex>
           <Flex mt="60px">

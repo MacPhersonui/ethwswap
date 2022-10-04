@@ -3,8 +3,8 @@ import { BigNumber } from '@ethersproject/bignumber'
 import { mainnetTokens, testnetTokens } from './tokens'
 
 export const ROUTER_ADDRESS = {
-  [ChainId.MAINNET]: '0x7007f5e32d5cd1c9161E7208abFb465129b5C18d',
-  [ChainId.TESTNET]: '0x7007f5e32d5cd1c9161E7208abFb465129b5C18d',
+  [ChainId.MAINNET]: '0x667eA65560ad4B84c91b5CB164241197cf60ffEE',
+  [ChainId.TESTNET]: '0x667eA65560ad4B84c91b5CB164241197cf60ffEE',
 }
 
 

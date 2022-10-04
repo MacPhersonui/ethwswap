@@ -14,14 +14,14 @@ const defineTokens = <T extends TokenList>(t: T) => t
 export const mainnetTokens = defineTokens({
   wbnb: new Token(
     MAINNET,
-    '0x310A7B498A248a8724779120F958102a5998E79d',
+    '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     18,
     'WETHW',
     'Wrapped ETHW',
     'https://ethereumpow.org/',
   ),
   // bnb here points to the wbnb contract. Wherever the currency BNB is required, conditional checks for the symbol 'BNB' can be used
-  bnb: new Token(MAINNET, '0x310A7B498A248a8724779120F958102a5998E79d', 18, 'ETHW', 'ETHW', 'https://ethereumpow.org/'),
+  bnb: new Token(MAINNET, '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2', 18, 'ETHW', 'ETHW', 'https://ethereumpow.org/'),
   cake: new Token(
     MAINNET,
     '0xc64e2d765eD732A6e0E42B59d16e4B7e25031231',
@@ -32,7 +32,7 @@ export const mainnetTokens = defineTokens({
   ),
   busd: new Token(
     MAINNET,
-    '0x310A7B498A248a8724779120F958102a5998E79d',
+    '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     18,
     'USDC',
     'USDC',
@@ -43,15 +43,15 @@ export const mainnetTokens = defineTokens({
 export const testnetTokens = defineTokens({
   wbnb: new Token(
     TESTNET,
-    '0x310A7B498A248a8724779120F958102a5998E79d',
+    '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     18,
-    'WETW',
-    'Wrapped ETW',
+    'WETHW',
+    'Wrapped ETHW',
     'https://ethereumpow.org/',
   ),
   cake: new Token(
     TESTNET,
-    '0x310A7B498A248a8724779120F958102a5998E79d',
+    '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     18,
     'CAKE',
     'PancakeSwap Token',

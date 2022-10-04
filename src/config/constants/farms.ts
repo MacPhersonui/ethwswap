@@ -23,7 +23,7 @@ const farms: SerializedFarmConfig[] = [
     lpSymbol: 'CAKE-BNB LP',
     lpAddresses: {
       97: '0x3ed8936cAFDF85cfDBa29Fbe5940A5b0524824F4',
-      10001: '0x310A7B498A248a8724779120F958102a5998E79d',
+      10001: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
     },
     token: serializedTokens.cake,
     quoteToken: serializedTokens.wbnb,
